@@ -13,7 +13,6 @@ Katelin Frederick 2018
 * [About this Project](#about-this-project)
 * [Goal of this Project](#goal-of-this-project)
 * [Technologies](#technologies)
-* [What I learned](#what-i-learned)
 * [Demo](#demo)
 
 ## About this Project
