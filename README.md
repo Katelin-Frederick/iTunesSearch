@@ -29,4 +29,4 @@ The goal of this project was to get familiar with third party API's
 
 ## Demo
 
-![Sign Up](demos/demo.gif)
+!(demos/demo.gif)
